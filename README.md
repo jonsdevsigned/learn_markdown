@@ -95,15 +95,29 @@ con tabulardor se puede crear un código de una linea
 ### Colocar imagenes
 ![logo](https://cdn.pixabay.com/photo/2015/11/02/14/01/google-1018443_960_720.png 'logo google')
 
-Para colocarla localmente
+#### Para colocarla localmente
 ![logo](BMTH.png 'logo bring me the horizon')
 
 ---
 
-<!-- github markdown -->
+## Markdown en github
+
+### Crear lista de tareas
 * [ ] homework one
 * [x] homework two
 * [x] homework three
 * [ ] homework four
+
+---
+
+### Mencionar un usario, quien recibira una notificación
+@jonsdevsigned
+
+---
+
+### emojis
+:alien:
+:smiley:
+:+1:
 
 
